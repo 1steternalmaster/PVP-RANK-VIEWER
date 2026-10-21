@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         PvP Rank Viewer (My Guild + Everyone)
 // @namespace    https://demonicscans.org/
-// @version      6.0.1
+// @version      6.0.2
 // @description  RANK button on the PvP page. Your guild: guild member list. Everyone else: PvP points from each profile; players in no PvP party are marked unqualified.
 // @match        https://demonicscans.org/pvp.php*
 // @author       WRiTER
