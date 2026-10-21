@@ -6,8 +6,8 @@
 // @match        https://demonicscans.org/pvp.php*
 // @author       WRiTER
 // @icon         https://demonicscans.org/images/pvp/party_image/party_88_20260403122525_d936f6b5.webp
-// @updateURL    https://raw.githubusercontent.com/1steternalmaster/PVP-RANK-VIEWER/main/pvp-viewer.user.js
-// @downloadURL  https://raw.githubusercontent.com/1steternalmaster/PVP-RANK-VIEWER/main/pvp-viewer.user.js
+// @updateURL    https://raw.githubusercontent.com/1steternalmaster/PVP-RANK-VIEWER/main/pvp-rank-viewer.user.js
+// @downloadURL  https://raw.githubusercontent.com/1steternalmaster/PVP-RANK-VIEWER/main/pvp-rank-viewer.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_addStyle
